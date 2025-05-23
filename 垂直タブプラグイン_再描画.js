@@ -1,6 +1,6 @@
 (function() {
   'use strict';
-
+//
   console.log('[DEBUG] スクリプト起動');
 
   const fixUserSelectHeight = () => {
