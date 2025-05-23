@@ -1,10 +1,12 @@
 (function() {
   'use strict';
-<<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 //cccccc
 >>>>>>> parent of 6790426 (変更２)
+=======
+>>>>>>> parent of 12f207a (Update 垂直タブプラグイン_再描画.js)
   console.log('[DEBUG] スクリプト起動');
 
   const fixUserSelectHeight = () => {
