@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 
 =======
-//
+//cccccc
 >>>>>>> parent of 6790426 (変更２)
   console.log('[DEBUG] スクリプト起動');
 
